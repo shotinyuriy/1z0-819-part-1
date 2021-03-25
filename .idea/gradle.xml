@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/scope" />
+            <option value="$PROJECT_DIR$/string-builder" />
           </set>
         </option>
       </GradleProjectSettings>

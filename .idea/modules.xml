@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scope.iml" filepath="$PROJECT_DIR$/.idea/modules/scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/string-builder.iml" filepath="$PROJECT_DIR$/.idea/modules/string-builder.iml" />
     </modules>
   </component>
 </project>
