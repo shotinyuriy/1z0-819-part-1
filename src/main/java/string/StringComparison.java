@@ -12,6 +12,6 @@ public class StringComparison {
         System.out.println("equals = " + hello.equals(secondSequence));
         System.out.println("compareTo = " + hello.compareTo(secondString));
 
-
+        // string s1 is substring
     }
 }
