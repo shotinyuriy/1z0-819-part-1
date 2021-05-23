@@ -10,4 +10,5 @@
 rootProject.name = '1z0-819-part-1'
 include 'scope'
 include 'string-builder'
+include 'operators'
 
