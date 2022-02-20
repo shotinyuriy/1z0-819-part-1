@@ -14,4 +14,5 @@ include 'operators'
 include 'encapsulation'
 include 'inheritance'
 include 'polymorphism'
+include 'interfaces'
 
