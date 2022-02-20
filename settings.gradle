@@ -13,4 +13,5 @@ include 'string-builder'
 include 'operators'
 include 'encapsulation'
 include 'inheritance'
+include 'polymorphism'
 
