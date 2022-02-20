@@ -14,7 +14,11 @@ interface Trainable {
     void train();
 }
 
-class Student implements Teachable {
+class Student implements Teachable, Trainable {
+    @Override
+    public void teachTheseLessons() {
+        Teachable.super.teachTheseLessons();
+    }
 
     public void teach() {
         teachTheseLessons();
